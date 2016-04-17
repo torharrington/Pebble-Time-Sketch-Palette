@@ -2,69 +2,69 @@
   "compatibleVersion":"1.0",
   "pluginVersion":"1.1",
   "colors":[
-    "#AAFF55",  // Inchworm
-    "#FFFFAA",  // Pastel Yellow
-    "#AAAAAA",  // Light Gray
-    "#FFFFFF",  // White
-    "#AAFFAA",  // Mint Green
-    "#55FF00",  // Bright Green
-    "#AAFF00",  // Spring Bud
-    "#FFFF55",  // Icterine
-    "#000000",  // Black
-    "#555555",  // Dark Gray
-    "#55FF55",  // Screamin' Green
-    "#00FF00",  // Green
-    "#FFFF00",  // Yellow
-    "#FFAA55",  // Rajah
-    "#00FF55",  // Malachite
-    "#00AA00",  // Islamic Green
-    "#55AA00",  // Kelly Green
-    "#AAAA55",  // Brass
-    "#AAAA00",  // Limerick
-    "#FFAA00",  // Chrome Yellow
-    "#FF5500",  // Orange
-    "#FFAAAA",  // Melon
-    "#55FFAA",  // Medium Aquamarine
-    "#00AA55",  // Jaeger Green
-    "#55AA55",  // May Green
-    "#005500",  // Dark Green (X11)
-    "#555500",  // Army Green
-    "#AA5500",  // Windsor Tan
-    "#FF0000",  // Red
-    "#FF5555",  // Sunset Orange
-    "#00FFAA",  // Medium Spring Green
-    "#00AAAA",  // Tiffany Blue
-    "#55AAAA",  // Cadet Blue
-    "#005555",  // Midnight Green (Eagle Green)
-    "#AA5555",  // Rose Vale
-    "#FF0055",  // Folly
-    "#55FFFF",  // Electric Blue
-    "#00FFFF",  // Cyan
-    "#0055AA",  // Cobalt Blue
-    "#550000",  // Bulgarian Rose
-    "#AA0000",  // Dark Candy Apple Red
-    "#AAFFFF",  // Celeste
-    "#00AAFF",  // Vivid Cerulean
-    "#0000AA",  // Duke Blue
-    "#000055",  // Oxford Blue
-    "#550055",  // Imperial Blue
-    "#AA0055",  // Jazzberry Jam
-    "#FF00AA",  // Fashion Magenta
-    "#55AAFF",  // Picton Blue
-    "#0000FF",  // Blue
-    "#5500FF",  // Electric Ultramarine
-    "#5500AA",  // Indigo (Web)
-    "#AA00AA",  // Purple
-    "#FF00FF",  // Magenta
-    "#FF55AA",  // Brilliant Rose
-    "#0055FF",  // Blue Moon
-    "#5555FF",  // Very Light Blue
-    "#5555AA",  // Liberty
-    "#AA00FF",  // Vivid Violet
-    "#AA55AA",  // Purpureus
-    "#FF55FF",  // Shocking Pink (Crayola)
-    "#FFAAFF",  // Rich Brilliant Lavender
-    "#AAAAFF",  // Baby Blue Eyes
-    "#AA55FF"   // Lavender Indigo
+    "#AAFF55",
+    "#FFFFAA",
+    "#AAAAAA",
+    "#FFFFFF",
+    "#AAFFAA",
+    "#55FF00",
+    "#AAFF00",
+    "#FFFF55",
+    "#000000",
+    "#555555",
+    "#55FF55",
+    "#00FF00",
+    "#FFFF00",
+    "#FFAA55",
+    "#00FF55",
+    "#00AA00",
+    "#55AA00",
+    "#AAAA55",
+    "#AAAA00",
+    "#FFAA00",
+    "#FF5500",
+    "#FFAAAA",
+    "#55FFAA",
+    "#00AA55",
+    "#55AA55",
+    "#005500",
+    "#555500",
+    "#AA5500",
+    "#FF0000",
+    "#FF5555",
+    "#00FFAA",
+    "#00AAAA",
+    "#55AAAA",
+    "#005555",
+    "#AA5555",
+    "#FF0055",
+    "#55FFFF",
+    "#00FFFF",
+    "#0055AA",
+    "#550000",
+    "#AA0000",
+    "#AAFFFF",
+    "#00AAFF",
+    "#0000AA",
+    "#000055",
+    "#550055",
+    "#AA0055",
+    "#FF00AA",
+    "#55AAFF",
+    "#0000FF",
+    "#5500FF",
+    "#5500AA",
+    "#AA00AA",
+    "#FF00FF",
+    "#FF55AA",
+    "#0055FF",
+    "#5555FF",
+    "#5555AA",
+    "#AA00FF",
+    "#AA55AA",
+    "#FF55FF",
+    "#FFAAFF",
+    "#AAAAFF",
+    "#AA55FF" 
   ]
 }
